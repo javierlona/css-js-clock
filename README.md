@@ -1,4 +1,4 @@
-![Demo Image](img/demo.jpg)
+![Demo Image](img/css-js-clock-demo.jpg)
 # CSS JS Clock
 
 
