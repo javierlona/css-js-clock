@@ -1,6 +1,6 @@
 ![Demo Image](img/css-js-clock-demo.jpg)
 # CSS JS Clock
-
+Takes the current time from Javascript and updates the analog clock based on the current hour, minute, and second.
 
 ## Live Demo
 
